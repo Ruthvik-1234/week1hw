@@ -1,0 +1,110 @@
+/* #mytable{
+    color: black;
+    background-color: rgb(136, 136, 235);
+    border-radius: 60px;
+} */
+.sidenav {
+    height: 100%;
+    width: 200px;
+    position: relative;
+    background-color: #111;
+    padding-top: 20px;
+  }
+  .sidenav a {
+    display: block;
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  .sidenav a:hover {
+    background-color: #575757;
+    color: #f1f1f1;
+  }
+  .main {
+  margin-left: 210px;
+  padding: 20px;
+}
+.rounded-table {
+    border: 1px solid black;
+    border-radius: 70px;
+  }
+
+
+  /* body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .login {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    width: 350px;
+    text-align: center;
+  }
+
+  .profile-img {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+  }
+
+  input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+
+  .login-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 10px;
+    font-size: 16px;
+  }
+
+  .login-btn:hover {
+    background-color: #0056b3;
+  }
+
+  .forgot-link {
+    display: block;
+    margin-top: 12px;
+    font-size: 14px;
+    color: #007bff;
+    text-decoration: none;
+  }
+
+  .forgot-link:hover {
+    text-decoration: underline;
+  }
+
+  .additional-options {
+    margin-top: 25px;
+    font-size: 14px;
+    color: #555;
+  } */
+  .profile-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+  }
